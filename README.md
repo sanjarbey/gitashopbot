@@ -1,0 +1,2 @@
+# gitashopbot
+O'rganish uchun
